@@ -5,6 +5,7 @@ import { messages as paragonMessages } from '@edx/paragon';
 import arMessages from './messages/ar.json';
 import frMessages from './messages/fr.json';
 import es419Messages from './messages/es_419.json';
+import zhtwMessages from './messages/zh_TW.json';
 import zhcnMessages from './messages/zh_CN.json';
 import ptMessages from './messages/pt.json';
 import itMessages from './messages/it.json';
@@ -23,6 +24,7 @@ const appMessages = {
   ar: arMessages,
   'es-419': es419Messages,
   fr: frMessages,
+  'zh-tw': zhtwMessages,
   'zh-cn': zhcnMessages,
   pt: ptMessages,
   it: itMessages,
